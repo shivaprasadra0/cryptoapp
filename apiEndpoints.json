@@ -1,0 +1,8 @@
+{
+    "bitcoinPrice": "https://api.example.com/bitcoin/price",
+    "usdtPrice": "https://api.example.com/usdt/price",
+    "transactionHistory": "https://api.example.com/transaction/history",
+    "sendTransaction": "https://api.example.com/send/transaction",
+    "blockExplorer": "https://explorer.example.com/transaction/"
+  }
+  
